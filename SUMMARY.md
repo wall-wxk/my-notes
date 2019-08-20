@@ -14,6 +14,7 @@
 * [算法](note/arithmetic/README.md)
     * [硬币找零](note/arithmetic/min-coins.md)
     * [归并排序](note/arithmetic/merge-sort.md)
+    * [堆排序](note/arithmetic/heap-sort.md)
 * [融合]()
     * [从输入 url 到展示的过程](note/mix/load-and-render-html.md)
 
