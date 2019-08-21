@@ -19,6 +19,7 @@
     * [希尔排序](note/arithmetic/shell-sort.md)
     * [插入排序](note/arithmetic/insertion-sort.md)
     * [选择排序](note/arithmetic/selection-sort.md)
+    * [冒泡排序](note/arithmetic/bubble-sort.md)
 * [融合]()
     * [从输入 url 到展示的过程](note/mix/load-and-render-html.md)
 
