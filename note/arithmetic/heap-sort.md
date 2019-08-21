@@ -3,9 +3,7 @@
 ```javascript
 // 堆排序
 function swap(array, key1, key2){
-    const value1 = array[key1];
-    array[key1] = array[key2];
-    array[key2] = value1;
+    [array[key1], array[key2]] = [array[key2], array[key1]];
 }
 
 // 调整堆
