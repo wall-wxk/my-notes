@@ -8,6 +8,7 @@
     * [event loop](note/javascript/event-loop.md)
 * [网络](note/net/README.md)
     * [nginx配置cname](note/net/nginx-cname.md)
+    * [ajax请求的实现](note/net/http-request.md)
 * [性能优化](note/performance/README.md)
     * [关键渲染路径](note/performance/critial-rendering-path.md)
 * [工具](note/tool/README.md)
