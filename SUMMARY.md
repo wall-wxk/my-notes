@@ -9,6 +9,8 @@
 * [网络](note/net/README.md)
     * [nginx配置cname](note/net/nginx-cname.md)
     * [ajax请求的实现](note/net/http-request.md)
+    * [xss防御](note/net/xss.md)
+    * [csrf防御](note/net/csrf.md)
 * [性能优化](note/performance/README.md)
     * [关键渲染路径](note/performance/critial-rendering-path.md)
 * [工具](note/tool/README.md)
